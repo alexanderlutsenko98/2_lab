@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+}
+
+header {
+    margin: auto;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    height: 100px;
+    display: flex;
+}
+
+footer {
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    height: 100px;
+    display: flex;
+}
+
+.box {
+    margin: auto;
+    padding-right: 40%;
+}
+
+.avatar {
+    margin-left: 25%;
+}
+
+.nav {
+    max-width: 960px;
+    margin: auto;
+    padding: 10px;
+    background-color: #a9a9a9;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    margin-bottom: 20px;
+    max-width: 960px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: #a0506196;
+    margin-top: 20px;
+}
+
+.form {
+    max-width: 960px;
+    background-color: #a0506196;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.table {
+    max-width: 960px;
+    background-color: #a0506196;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.list1 {
+    font-size: 20px;
+    padding: 0 80px;
+    list-style-type: none;
+    display: inline-block;
+}
+
+.chet {
+    background-color: #0000005e;
+}
+
+.nechet {
+    background-color: #8d0f0f61;
+}
+
+.name {
+    margin: auto;
+    font-size: 24px;
+}
